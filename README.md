@@ -9,18 +9,12 @@ workstations.
 
 `jira-context` is supported on Python 2.6, 2.7, 3.3, and 3.4.
 
-[![Build Status](https://travis-ci.org/Robpol86/jira-context.svg?branch=master)]
-(https://travis-ci.org/Robpol86/jira-context)
-[![Coverage Status](https://img.shields.io/coveralls/Robpol86/jira-context.svg)]
-(https://coveralls.io/r/Robpol86/jira-context)
-[![Latest Version](https://img.shields.io/pypi/v/jira-context.svg
-(https://pypi.python.org/pypi/jira-context/)
-[![Downloads](https://img.shields.io/pypi/dm/jira-context.svg
-(https://pypi.python.org/pypi/jira-context/)
-[![Download format](https://img.shields.io/pypi/format/jira-context.svg
-(https://pypi.python.org/pypi/jira-context/)
-[![License](https://img.shields.io/pypi/l/jira-context.svg
-(https://pypi.python.org/pypi/jira-context/)
+[![Build Status](https://travis-ci.org/Robpol86/jira-context.svg?branch=master)](https://travis-ci.org/Robpol86/jira-context)
+[![Coverage Status](https://img.shields.io/coveralls/Robpol86/jira-context.svg)](https://coveralls.io/r/Robpol86/jira-context)
+[![Latest Version](https://img.shields.io/pypi/v/jira-context.svg)](https://pypi.python.org/pypi/jira-context/)
+[![Downloads](https://img.shields.io/pypi/dm/jira-context.svg)](https://pypi.python.org/pypi/jira-context/)
+[![Download format](https://img.shields.io/pypi/format/jira-context.svg)](https://pypi.python.org/pypi/jira-context/)
+[![License](https://img.shields.io/pypi/l/jira-context.svg)](https://pypi.python.org/pypi/jira-context/)
 
 ## Quickstart
 
