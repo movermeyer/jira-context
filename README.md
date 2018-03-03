@@ -13,13 +13,13 @@ workstations.
 (https://travis-ci.org/Robpol86/jira-context)
 [![Coverage Status](https://img.shields.io/coveralls/Robpol86/jira-context.svg)]
 (https://coveralls.io/r/Robpol86/jira-context)
-[![Latest Version](https://pypip.in/version/jira-context/badge.png)]
+[![Latest Version](https://img.shields.io/pypi/v/jira-context.svg
 (https://pypi.python.org/pypi/jira-context/)
-[![Downloads](https://pypip.in/download/jira-context/badge.png)]
+[![Downloads](https://img.shields.io/pypi/dm/jira-context.svg
 (https://pypi.python.org/pypi/jira-context/)
-[![Download format](https://pypip.in/format/jira-context/badge.png)]
+[![Download format](https://img.shields.io/pypi/format/jira-context.svg
 (https://pypi.python.org/pypi/jira-context/)
-[![License](https://pypip.in/license/jira-context/badge.png)]
+[![License](https://img.shields.io/pypi/l/jira-context.svg
 (https://pypi.python.org/pypi/jira-context/)
 
 ## Quickstart
